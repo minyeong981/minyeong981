@@ -21,7 +21,7 @@
 |--------|-------------|
 | [Moyo](https://github.com/boostcampwm2025/web13-isj-dle) | 2D 가상 공간 기반 실시간 협업 플랫폼|
 | [전허게](https://33da8d2504ec80cab619eb98211bc44d.notion.site) | 제주 전통기술 커리어 연결 서비스 · 구름톤 대상 🏆 |
-| [따숨](https://github.com/DDASOOM/ddasoom) | 실시간 공황발작 예측 및 훈련 서비스  |
+| [따숨](https://github.com/DDASOOM/ddasoom) | 실시간 공황발작 예측 및 훈련 서비스 · SSAFY 우수상 🥈 |
 | [캐운](https://github.com/minyeong981/-Chaun-) | 캐릭터와 함께 성장하며 운동하는 서비스  |
 | [밭터](https://github.com/minyeong981/-Bartter-) | 농산물 물물교환 서비스|
 

@@ -15,6 +15,27 @@
 
 <br/>
 
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Moyo](https://github.com/boostcampwm2025/web13-isj-dle) | 2D 가상 공간 기반 실시간 협업 플랫폼|
+| [전허게](https://33da8d2504ec80cab619eb98211bc44d.notion.site) | 제주 전통기술 커리어 연결 서비스 · 구름톤 대상 🏆 |
+| [따숨](https://github.com/DDASOOM/ddasoom) | 실시간 공황발작 예측 및 훈련 서비스  |
+| [캐운](https://github.com/minyeong981/-Chaun-) | 캐릭터와 함께 성장하며 운동하는 서비스  |
+| [밭터](https://github.com/minyeong981/-Bartter-) | 농산물 물물교환 서비스|
+
+<br/>
+
+### 🏆 Awards
+
+<ul>
+  <li>🥇 구름톤 in JEJU 17th <b>대상</b> (2026.04)</li>
+  <li>🥈 삼성 청년 SW 아카데미 자율 프로젝트 <b>우수상</b> (2024.11)</li>
+</ul>
+
+<br/>
+
 <h3>🌍 Open Source Contributions</h3>
 
 <b>typescript-eslint / typescript-eslint</b>
